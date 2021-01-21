@@ -14,7 +14,7 @@ summary: This is a program that displays a running fan with buttons to control t
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-fan.png">
+  <img class="ui image" src="../images/fan.png">
 </div>
 
 
