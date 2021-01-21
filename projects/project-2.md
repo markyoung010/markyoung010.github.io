@@ -15,10 +15,8 @@ summary: A line sketching game similar to an echasketch.
 
 <img class="ui medium right floated rounded image" src="../images/sketcher.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Line Sketcher is very similar to an echasketch, but instead of being a toy, it's a desktop application. To play the game, all the user has to do is move the arrow keys. A line will extend in the direction indicated by the pressed arrow key.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I created Line Sketcher using Java and [JavaFX](https://openjfx.io/). JavaFX has lots of great tools for making desktop and mobile applications. This project helped me to strengthen my knowlegde and skills of the tools available in JavaFX. 
  
 You can view the code on [GitHub](https://github.com/markyoung010/line_sketcher).
