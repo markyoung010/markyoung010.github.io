@@ -10,7 +10,7 @@ labels:
   - Java
   - JavaFX
   
-summary: A line sketching game similar to an echaskech.
+summary: A line sketching game similar to an echasketch.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sketcher.png">
