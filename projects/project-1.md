@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fan.jpg
+image: images/fan.png
 title: Running Fan
 permalink: projects/runningfan
 # All dates must be YYYY-MM-DD format!
@@ -37,7 +37,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You view the code on [GitHub](https://github.com/markyoung010/fan).
+You can view the code on [GitHub](https://github.com/markyoung010/fan).
 
 
 
