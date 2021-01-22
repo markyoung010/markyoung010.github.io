@@ -27,7 +27,7 @@ let object = {
 };
 ```
 
-The triple equality is also used in PHP and for the same purpose - to check the equality of types as well as values. The <em>object</em> data structure reminds me of the <em>structure</em> data sctructure from the C language. The main difference that I've noticed so far is that in JavaScript the syntax is simpler. For example, let's say that I want to make data structure that represent a point on the plan. If I use a JavaScript object, then it might look like this
+The triple equality is also used in PHP and for the same purpose - to check the equality of types as well as values. The <em>object</em> data structure reminds me of the <em>structure</em> data sctructure from the C language. The main difference that I've noticed so far is that in JavaScript the syntax is simpler. For example, let's say that I want to make a data structure that represent a point in the 2d-space. If I use a JavaScript object, then it might look like this
 
 ```
 let p1 = {
@@ -50,6 +50,5 @@ p1[x] // returns 5 for the JavaScript object
 
 p2.x // returns 5 for the C structure
 ```
-I'm sure that I will pick up of many more things as I learn more.
-
-In general, I <em>am</em> glad to be learning JavaScript as I know that I will get a lot of practical use from it. I just need to make sure that I set some time aside to keep practicing the other languages that I have learned thus far.
+I'm sure that I will pick up on many more things as I continue to learn this new language. In general, I <em>am</em> glad to be learning JavaScript as I know that I will get a lot of practical use from it. I just need to make sure that I set some time aside to keep practicing the other languages that I have learned thus far.
+<br><br>
