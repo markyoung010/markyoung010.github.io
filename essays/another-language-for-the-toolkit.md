@@ -13,7 +13,7 @@ The language of the web. A must-have tool for any web developer. JavaScript.
 
 On the one hand, I am excited to be learning this language. It makes magic happen on the web, and it is always interesting to explore another language model with its syntax and semantics. On the other hand, it is a bit frustrating because I have yet to master the other four languages that I have been introduced to. The more time I spend learning a new language, the less time I can spend on mastering the others. Thus, the life of the amateur technologist. I will just plan accordingly.
 
-<img style="float: right;" src="js-browser.png" width="450">
+<img style="float: right;" src="../images/js-browser.png" width="450">
 
 JavaScript is the language of the web! What language allows you to write code directly into a web browser? Anyone can open a modern web browser and begin programming JavaScript; I find that to be absolutely amazing! This bypasses that sometimes very annoying process of downloading and configuration of software needed just to print a simple “Hello World” in any other language that I’ve worked with. JavaScript has a sort of open-door policy to the world. If you have access to a web browser, you have access to JavaScript. You just need to learn the language mechanics.
 <br><br>
