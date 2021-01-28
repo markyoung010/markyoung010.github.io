@@ -10,7 +10,7 @@ labels:
 - Smart Questions
 ---
 
-<img style="float: left;" src="gear_head.png" width="450">
+<img style="float: left;" src="../images/gear_head.png" width="250">
 
 I have found something truly helpful to me and to many others - [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html);
 it is an essay written by Eric Steven Raymond. Clearly, as indicated by its title, the essay is about asking <em>smart</em> questions. However, I almost 
