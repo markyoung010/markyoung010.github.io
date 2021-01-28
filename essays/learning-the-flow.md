@@ -9,6 +9,7 @@ labels:
   - Learning
 ---
 
+<img style="float: left;" src="../images/the-flow.jpg" width="250">
 Before I began my computer science studies at UH Manoa, I equated the term 'software engineering' to the word 'programming.' That’s it. Nothing else. I thought, to be a good software engineer, one must be a good programmer. While this may be true, after having about 4 semesters under my belt, I now mainly view the term 'software engineering' as the sum of two other terms - 'Planning' and 'Teamwork.' 
 
 In many areas of my life, I’ve noticed that things tend to go much smoother if I’ve made a plan. There are, of course, situations where spontaneity is preferred or cannot be avoided.  The situations that I feel are great for planning are tasks in which a definite outcome is expected, especially if this task has not been experienced before. This seems to me to be a characteristic of software engineering. 
