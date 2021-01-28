@@ -84,15 +84,16 @@ Unlike the first post, this post wasn't received so well by the community. Its v
 <em>duplicate</em> (the question has already been asked in another post). This post easily breaks two important rules for asking a <em>smart</em> question.
 
 One rule is to <em>try to find an answer by searching the archives of the forum</em>. This is specified in the section [Before You Ask](http://www.catb.org/esr/faqs/smart-questions.html#before).
-Another rule is to generally avoid asking yes-or-no question. This is noted in the section [Prune pointless queries](http://www.catb.org/esr/faqs/smart-questions.html#prune).
+Another rule is to generally avoid asking yes-or-no questions. This is noted in the section [Prune pointless queries](http://www.catb.org/esr/faqs/smart-questions.html#prune).
 
 This poster's question could have easily been answered if they had bothered to use the forum's search bar. If they cannot put the effort in to finding an answer,
 why should we put any effort in to posting one?
 
 ## Summary
 
-In conclusion, if you are having trouble solving a problem, and you feel that you have exhausted all options, follow Raymond's rules for [asking smart questions](http://www.catb.org/esr/faqs/smart-questions.html).
+In conclusion, if you are having trouble solving a problem and you feel that you have exhausted all options, follow Raymond's rules for [asking smart questions](http://www.catb.org/esr/faqs/smart-questions.html).
 In the process of forming the question you may find the answer, but if you do end up asking the question, it will be written in such a way that the reader will 
 understand your situation. This has the potential of producing good quality answers. 
 
 Making smart questions will make you smarter.
+<br><br><br>
