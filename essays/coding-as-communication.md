@@ -28,9 +28,8 @@ Take a look at these two  snippets of `C` code:
 
 #### Code Snippet B
 
-> /**************************************<br>
->  &nbsp; Prints input one word per line.<br>
-> ***************************************\ <br>
+> // &nbsp; Prints input one word per line.<br>
+> 
 > int main (int argc, char *argv[ ])<br>
 > {<br>
 > &nbsp;&nbsp;&nbsp;&nbsp; int input, escapes;<br>
@@ -62,7 +61,7 @@ Snippet A is implemented in only 9 lines of code, while Snippet B is implemented
 If both snippets do the same thing, then is there any significant difference between the two?
 The significant difference is that Snippet A is just written to work, but Snippet B is written to work and also to communicate.
 
-<img style="float: left;" src="../images/gear_head.png" width="250"> &nbsp;
+<img style="float: left;" src="../images/communication-skills.jpg" width="250"> &nbsp;
 When we write code, yes we are creating specific instructions for the computer to carry out a certain task, but many times, 
 we also expect that other humans will read this code (even our future selves). In the presences of this expectation, code 
 becomes more than just instructions to a machine, it becomes a document which communicates the computer instructions to other 
