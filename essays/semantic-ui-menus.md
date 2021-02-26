@@ -121,7 +121,7 @@ We just have two item left! This is just four more lines of code!
 ```
 
 And this is what we get.<br>
-<img src="../images/menu1.png" width="500">
+<img src="../images/menu1.png" width="1000">
 
 We get a nice looking and simple menu bar, and we didn't even have to think much about formatting. All of this was
 implemented using just 17 lines of code! Now let's try to do a similar thing using html and css. We will not go 
@@ -209,7 +209,7 @@ button {
 ```
 
 Jeez! That's a lot! Let's see what this gets us.<br>
-<img src="../images/menu2-2.png" width="500">
+<img src="../images/menu2-2.png" width="1000">
 
 Well that looks okay, I suppose, but the Semantic UI menu bar looks so much better and takes much less effort and code
 to implement.
