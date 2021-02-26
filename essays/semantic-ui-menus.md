@@ -121,6 +121,8 @@ We just have two item left! This is just four more lines of code!
 ```
 
 And this is what we get.<br>
+![menu1](/images/menu1.png)
+
 <img src="../images/menu1.png" width="1000">
 
 We get a nice looking and simple menu bar, and we didn't even have to think much about formatting. All of this was
