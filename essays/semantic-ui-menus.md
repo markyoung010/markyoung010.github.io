@@ -149,7 +149,7 @@ Here is the html code for our menu.
 
 This looks pretty simple enough. There's even less code than our Semantic UI menu example. Let's see what this gives us.
 
-<img style="text-align=center" src="../images/menu2-1.png">
+<img style="text-align: center" src="../images/menu2-1.png">
 
 Yikes. That looks pretty terrible. To make it look halfway decent, we'll add the following css.
 
