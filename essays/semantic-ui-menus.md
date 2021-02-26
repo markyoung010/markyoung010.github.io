@@ -152,8 +152,8 @@ Here is the html code for our menu.
 ```
 
 This looks pretty simple enough. There's even less code than our Semantic UI menu example. Let's see what this gives us.
-<br>
-<img align="center" src="../images/menu2-1.png">
+
+<img style="text-align=center" src="../images/menu2-1.png">
 
 Yikes. That looks pretty terrible. To make it look halfway decent, we'll add the following css.
 
@@ -210,6 +210,7 @@ button {
 ```
 
 Jeez! That's a lot! Let's see what this gets us.<br>
+
 <img src="../images/menu2-2.png" width="1000">
 
 Well that looks okay, I suppose, but the Semantic UI menu bar looks so much better and takes much less effort and code
