@@ -88,7 +88,7 @@ To include the search bar, we use the class `ui icon input`.
 </div>
 ```
 
-We just have two item left! This is just four more lines of code!
+We just have two items left to add! This is just four more lines of code!
 
 ```angular2html
 <div class="ui borderless menu">
@@ -214,3 +214,6 @@ Well that looks okay, I suppose, but the Semantic UI menu bar takes much less ef
 My experience with Semantic UI is my first exposure to a user interface framework. So far, I find it to be incredibly
 useful and time-saving. As we've just seen with the menu bar example, creating a simple and good-looking user interface 
 is quite easy with Semantic UI. I am looking forward to learning much more!
+<br>
+<br>
+<br>
