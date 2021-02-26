@@ -151,7 +151,7 @@ This looks pretty simple enough. There's even less code than our Semantic UI men
 
 <img style="text-align: center" src="../images/menu2-1.png">
 
-Yikes. That looks pretty terrible. To make it look halfway decent, we'll add the following css.
+Yikes! That looks terrible! To make it look halfway decent, we'll add the following css.
 
 ```
 ul {
@@ -172,10 +172,6 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #ddd;
 }
 
 .rightMenu li {
@@ -201,7 +197,6 @@ button {
     text-align: center;
     text-decoration: none;
     margin: 7px 5px;
-    cursor: pointer;
 }
 ```
 
