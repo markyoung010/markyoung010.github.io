@@ -65,7 +65,7 @@ we will use the class `right item`.
 </div>
 ```
 
-To include the search bar, we use the class `ui icon input`, and just for fun, we'll add a little search icon.
+To include the search bar, we use the class `ui icon input`.
 
 ```angular2html
 <div class="ui borderless menu">
@@ -82,8 +82,6 @@ To include the search bar, we use the class `ui icon input`, and just for fun, w
         <div class="ui icon input">
             <!-- search bar -->
             <input type="text" placeholder="Search Site">
-            <!-- search icon -->
-            <i class="search icon"></i>
         </div>
     </div>
     
@@ -107,8 +105,6 @@ We just have two item left! This is just four more lines of code!
         <div class="ui icon input">
             <!-- search bar -->
             <input type="text" placeholder="Search Site">
-            <!-- search icon -->
-            <i class="search icon"></i>
         </div>
     </div>
 
@@ -125,7 +121,7 @@ And this is what we get.<br>
 <img src="../images/menu1.png" width="1000">
 
 We get a nice looking and simple menu bar, and we didn't even have to think much about formatting. All of this was
-implemented using just 17 lines of code! Now let's try to do a similar thing using html and css. We will not go 
+implemented using just 16 lines of code! Now let's try to do a similar thing using html and css. We will not go 
 step-by-step with <em>this</em> implementation. That would take far too long!
 
 Here is the html code for our menu.
@@ -213,9 +209,8 @@ Jeez! That's a lot! Let's see what this gets us.<br>
 
 <img src="../images/menu2-2.png" width="1000">
 
-Well that looks okay, I suppose, but the Semantic UI menu bar looks so much better and takes much less effort and code
-to implement.
+Well that looks okay, I suppose, but the Semantic UI menu bar takes much less effort and code to implement.
 
 My experience with Semantic UI is my first exposure to a user interface framework. So far, I find it to be incredibly
 useful and time-saving. As we've just seen with the menu bar example, creating a simple and good-looking user interface 
-is quite easy with Semantic UI. It almost feels like a drag-and-drop experience.
+is quite easy with Semantic UI. I am looking forward to learning much more!
