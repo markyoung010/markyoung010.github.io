@@ -9,5 +9,6 @@ labels:
   - MVC
 ---
 
-<img style="float: left;" src="../images/spagettiCode.gif" width="250">
+<img style="float: left;" src="../images/spaghettiCode.gif" height="250" alt="spaghetti code meme"> 
 
+Looking back on many of the programs that I have written, I noticed that I too often I resort to creating spaghetti code.
