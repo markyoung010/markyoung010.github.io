@@ -42,5 +42,7 @@ directory. There you will find three subdirectories -
 [startup](https://github.com/ics-software-engineering/meteor-application-template-react/tree/master/app/imports/startup), 
 and [ui](https://github.com/ics-software-engineering/meteor-application-template-react/tree/master/app/imports/ui). Here,
 the `api` folder is our *model*. There is only one file in it called `stuff`, and in that folder there is just one filed,
-classed `Stuff.js`. Look at this file, we see that this is the place where the app communicates with the database. 
+classed `Stuff.js`. Looking at this file, we see that this is the place where the app communicates with the database. 
 
+The `ui` folder is our *view*. There you will find three folders, all of which have files whose only purpose is to 
+display data, and the user interface. As far as the *controller* goes, I'm still a bit unsure as to where that is.
