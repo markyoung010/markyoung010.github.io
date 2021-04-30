@@ -36,7 +36,7 @@ working with
 [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/), 
 giving me a foundation on which I will continue to build.
 
-In meteor-application-template-react, the MVC pattern partially implemented in the 
+In meteor-application-template-react, the MVC pattern is partially implemented in the 
 [app/imports](https://github.com/ics-software-engineering/meteor-application-template-react/tree/master/app/imports)
 directory. There you will find three subdirectories - 
 [api](https://github.com/ics-software-engineering/meteor-application-template-react/tree/master/app/imports/api), 
@@ -51,3 +51,9 @@ implemented in this application. As I said though, I am still learning, but I am
 off of.
 
 Say it with me, "No More Spaghetti!"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
