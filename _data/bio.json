@@ -29,17 +29,22 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "data science",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "web administration",
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Systems Programming",
       "keywords": [
       ]
     }
@@ -52,6 +57,7 @@
         "C",
         "Java",
         "Javascript",
+        "mondgoDB",
         "MySQL",
         "PHP",
         "Python"
@@ -62,6 +68,8 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
+        "IntelliJ IDEA",
+        "LaTEX",
         "Linux",
         "PhpStorm",
         "Vim"
@@ -93,15 +101,18 @@
   "work": [
     {
       "company": "International Structural Engineering and Construction Society",
-      "position": "Full-Stack Developer",
+      "position": "Full-Stack Developer (Independent Contractor)",
       "website": "https://www.isec-society.org",
       "startDate": "2020-11-16",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Maintain, and update the company website",
-        "Add new features as needed",
-        "Provide tech support for the site's users"
+        "Provide technical support for the users of the Conference Review Manager (CRM) software and the ISEC Society website software.",
+        "Use JavaScript, PHP, and MySQL to add/modify features and fix bugs on the CRM and ISEC Society websites.",
+        "Backup the CRM and ISEC servers weekly",
+        "For the current ISEC conference, send approved manuscripts to the copy editors.",
+        "After all approved manuscripts have been copy edited, create an ISEC Press website for the current ISEC conference, where all the manuscripts will be published.",
+        "Any other duties as assigned."
       ]
     },
     {
@@ -112,7 +123,7 @@
       "endDate": "2019-08-06",
       "summary": "",
       "highlights": [
-        "Assist customers",
+        "Provide excellent customer service.",
         "Visit each department manager and support them with meeting their goals",
         "Inspect each department and the general store to ensure that the merchandising and the general appearance are up to company standards",
         "Schedule needed repairs and services as needed",
