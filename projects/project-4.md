@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/rateMyClassesLogo.png
-title: Conference Review Manager Software Modifications
+title: Rate My Classes Manoa
 permalink: projects/crm-modifications
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-12
