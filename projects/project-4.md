@@ -17,7 +17,7 @@ summary: Created a web application for UH Manoa students to rate UH Manoa classe
 
 For this project, I worked in a team of four developers to create a web application called
 [Rate My Classes Manoa](https://rate-my-classes-manoa.github.io/). Rate My Classes Manoa allows students of the
-[University of Hawaii at Manoa (UH Manoa)](https://ratemyclassesmanoa.club/) to create a profile, rate UH Manoa classes,
+[University of Hawaii at Manoa (UH Manoa)](https://manoa.hawaii.edu/) to create a profile, rate UH Manoa classes,
 and also rate UH Manoa Professors. We used [GitHub’s project management](https://github.com/features/project-management)
 software to manage the project, along with the management principles of
 [Issue Driven Project Management (IDPM)](https://www.youtube.com/watch?v=13OFmXw47P4&t=2s).
