@@ -23,7 +23,7 @@ that I used was provided by the Mexican government, but I retrieved the data fro
 The picture below shows the first five rows of the data that I used to train a [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
 classifier. Each row represents one patient.
 
-<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto" src="../images/mexicoCovidDataHead.png" alt="sample of the training data">
+<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 700px;" src="../images/mexicoCovidDataHead.png" alt="sample of the training data">
 
 The IDE that I used for this project is [Jupyter Notebooks](https://jupyter.org/), and the programming language used is
 [Python](https://www.python.org/).
@@ -37,7 +37,7 @@ A fun thing about this project is that I also used it as part of a Kaggle compet
 competition, my submission was then graded, then finally I was ranked in comparison to other competitors. Out of the 28
 people that participated, I made it to the second place spot.
 
-<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto" src="../images/learderboard.png" alt="the kaggle leaderboard">
+<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 700px;" src="../images/learderboard.png" alt="the kaggle leaderboard">
 
 You can view the code on [GitHub](https://github.com/markyoung010/Mexico-COVID19-Patients)
 <br>

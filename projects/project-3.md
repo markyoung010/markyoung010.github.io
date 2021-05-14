@@ -39,7 +39,7 @@ The administrative team for the CRC 2022 conference decided to use the CRM softw
 abstract submission and review process. Before they began the manuscript submission and review process, they requested
 some modifications to the software. These modifications include:
 
-<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto" src="../images/addTrackEditor.png" alt="Deputy Track Editor Table">
+<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 700px;" src="../images/addTrackEditor.png" alt="Deputy Track Editor Table">
 
    1. Create an option for the Administrators to view the manuscripts, and the manuscript review statistic for an
       indicated track (i.e. ADT – Advanced Technologies and Data Analytics, CED – Construction Education, etc...)
