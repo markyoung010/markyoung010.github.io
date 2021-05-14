@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rateMyClassesLogo.png
 title: Rate My Classes Manoa
-permalink: projects/crm-modifications
+permalink: projects/rate-my-classes
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-12
 labels:
