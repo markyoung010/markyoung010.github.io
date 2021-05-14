@@ -8,7 +8,7 @@ permalink: projects/rate-my-classes
 date: 2021-05-12
 labels:
   - JavaScript
-  - MondoDB
+  - mongoDB
   - Meteor
   - GitHub Project Management
 
