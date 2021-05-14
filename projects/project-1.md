@@ -1,48 +1,23 @@
 ---
 layout: project
 type: project
-image: images/covid-19.jpg
-title: Predict Death of COVID Patients
-permalink: projects/predict-death-of-covid-patients
+image: images/circles.png
+title: Circle Game
+permalink: projects/circle-game
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-01
+date: 2020-08-21
 labels:
-  - COVID-19
-  - Machine Learning
-  - Kaggle
-  - Python
-  - Jupyter Notebooks
-
-summary: A Jupyter Notebook that contains the Machine Learning methods I used to predict the death of COVID-19 patients
-    from Mexico.
+  - Java
+  - JavaFX
+  
+summary: Control the circles using the interface.
 ---
 
-In this project, I used machine learning to predict the probability of whether a COVID-19 patient will die.  The data
-that I used was provided by the Mexican government, but I retrieved the data from this [Kaggle competition](https://www.kaggle.com/c/covid19-risk-mexico/data).
+<img class="ui medium right floated rounded image" src="../images/circles.png">
 
-The picture below shows the first five rows of the data that I used to train a [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
-classifier. Each row represents one patient.
+Circle Game is a desktop application that I made to explore user interface development. The programming language used is Java. The tools that I used to create the UI are from JavaFX.
 
-<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto" src="../images/mexicoCovidDataHead.png" alt="sample of the training data">
+There is no real objective to the game. The player must use the interface to move the circles and change their radii. If the circles intersect, the game prints 'Yes'. 
 
-The IDE that I used for this project is [Jupyter Notebooks](https://jupyter.org/), and the programming language used is
-[Python](https://www.python.org/).
+You can view the code on [GitHub](https://github.com/markyoung010/circle_game).
 
-Through this project, I learned to use the some of the many tools that Python has for doing data analysis and machine
-learning, such as [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html), and
-[scikit-learn](https://scikit-learn.org/stable/index.html). I also received the chance to explore the decision tree
-modeling approach to classify data.
-
-A fun thing about this project is that I also used it as part of a Kaggle competition. I submitted my predictions to the
-competition, my submission was then graded, then finally I was ranked in comparison to other competitors. Out of the 28
-people that participated, I made it to the second place spot.
-
-<img style="padding: 10px; display: block; margin-left: auto; margin-right: auto" src="../images/learderboard.png" alt="the kaggle leaderboard">
-
-You can view the code on [GitHub](https://github.com/markyoung010/Mexico-COVID19-Patients)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
